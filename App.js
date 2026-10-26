@@ -18,7 +18,7 @@ class ModuleInfo extends React.Component {
 
                 <Welcome
                     code="C346"
-                    name="Mobile App Development"/>
+                    name="Mobile App Development!"/>
 
                 <Welcome
                     code="C105"
